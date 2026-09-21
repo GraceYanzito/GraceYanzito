@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!👋 My name is Grace Yanzito. I am a CS undergraduate at Willamette University.  
 
 <!--
 **GraceYanzito/GraceYanzito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
