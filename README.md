@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Contact Me :
+
+<p>
+ </br>
+
+<a href="mailto:graceyanzito@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/grace-yanzito/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="linkedin.png" />
+</br>
+</br>
+</br>
+</a>
