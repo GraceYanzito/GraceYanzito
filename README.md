@@ -1,26 +1,11 @@
 ## Hello!👋 My name is Grace Yanzito. I am a CS undergraduate at Willamette University.  
 
-<!--
-**GraceYanzito/GraceYanzito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Contact Me :
 
 <p>
  </br>
 
-<a href="mailto:graceyanzito@gmail.com">
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#114;&#97;&#99;&#10;&#121;&#97;&#110;&#122;&#105;&#116;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
  <img align="left" alt="Gmail" width="130" hight="100" src="gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/grace-yanzito/">
